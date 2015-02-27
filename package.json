@@ -1,0 +1,25 @@
+{
+  "name": "supports-localstorage",
+  "version": "1.0.0",
+  "description": "Check if a browser supports local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/weo-edu/supports-localstorage"
+  },
+  "keywords": [
+    "localstorage",
+    "supports",
+    "supports",
+    "localstorage"
+  ],
+  "author": "ashaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/supports-localstorage/issues"
+  },
+  "homepage": "https://github.com/weo-edu/supports-localstorage"
+}
