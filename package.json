@@ -1,6 +1,6 @@
 {
   "name": "supports-localstorage",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if a browser supports local storage.",
   "main": "index.js",
   "scripts": {
